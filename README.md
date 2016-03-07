@@ -3,7 +3,6 @@ Inspire-Search-Js
 
 [![Build Status](https://img.shields.io/travis/inspirehep/inspirehep-search-js.svg)](https://travis-ci.org/inspirehep/inspirehep-search-js)
 [![Coverage](https://img.shields.io/coveralls/inspirehep/inspirehep-search-js.svg)](https://coveralls.io/r/inspirehep/inspirehep-search-js)
-[![Release](https://img.shields.io/github/tag/inveniosoftware/invenio-search-js.svg)](https://github.com/inveniosoftware/invenio-search-js/releases)
 [![LICENSE](https://img.shields.io/github/license/inspirehep/inspirehep-search-js.svg)](https://github.com/inspirehep/inspirehep-search-js/blob/master/LICENSE)
 
 Inspire-search Angular JS module used in http://labs.inspirehep.net search results.
