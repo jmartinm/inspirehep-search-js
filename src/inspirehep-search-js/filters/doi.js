@@ -25,6 +25,7 @@
   
   function doiFilter() {
     return function(input) {
+      // Extra comment to trigger Travis
       if (!input) {
         return '';
       }
